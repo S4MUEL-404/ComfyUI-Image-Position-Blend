@@ -1,0 +1,14 @@
+[project]
+name = "image-position-blend"
+description = "A custom node for conveniently adjusting the overlay position of two images."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/S4MUEL-404/ComfyUI-Image-Position-Blend"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Image-Position-Blend"
+Icon = ""
